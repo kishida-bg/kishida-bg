@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=kishida-bg&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kishida-bg&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishida-bg&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishida-bg&theme=chartreuse-dark" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kishida-bg&title=MultiLanguage,Commit,Issues,PullRequest,Repository )](https://github.com/ryo-ma/github-profile-trophy)
