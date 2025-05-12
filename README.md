@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=kishida-bg&theme=juicyfresh&title=MultiLanguage,Commit,Issues,PullRequest,Repository )](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=kishida-bg&theme=aura&locale=ja&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=kishida-bg&theme=hacker&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
